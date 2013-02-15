@@ -29,6 +29,7 @@ You must place the ConfigEdit CakePHP plugin within your CakePHP 2.x app/Plugin 
 (3.1)  Change the Auth settings for the edit and create functions of the plugin.
 
 You can do this in 
+
 	app/Plugin/ConfigEdit/Controller/ConfigEditAppController.php
 
 (5) Visit http://YOUR_URL/config_edit/configfiles/
